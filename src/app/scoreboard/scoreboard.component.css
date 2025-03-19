@@ -1,0 +1,17 @@
+.scoreboard {
+    border: 2px solid limegreen;
+    padding: 20px;
+    display: inline-block;
+    background: black;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    font-size: 20px;
+    margin: 5px;
+  }
+  
